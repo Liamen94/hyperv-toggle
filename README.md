@@ -5,3 +5,5 @@ I needed to use WSL 2 and a Debian VM in Oracle VirtualBox. If Hyper-V is on you
 So I wrote this simple script too switch between the WSL and VirtualBox virtualization. 
 
 To run it call it from a Powershell terminal with admin rights.
+
+Added a script to generate a Windows notification in order to display Hyper-V current state.
